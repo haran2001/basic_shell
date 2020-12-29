@@ -5,6 +5,6 @@ Shell from scratch in C (learnt abt fork, execvp, function array)
 	-> The program works by taking a command as input (using lsh_read_line function)
 	-> Splits the command into individual arguments(using lsh_split function) 
 	-> Finally executes each argument/command of the input (using lsh_execute function)  
-	-> https://github.com/haran2001/basic_shell
+	
 
 Reference tutorial: https://brennan.io/2015/01/16/write-a-shell-in-c/
